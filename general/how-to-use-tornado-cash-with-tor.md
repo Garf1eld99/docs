@@ -60,4 +60,4 @@ Then, you can add Metamask to your toolbar, by doing a right click on it and dra
 
 You can now use [Tornado Cash Classic](https://tornadocash.eth.link) or [Tornado Cash Nova](https://nova.tornadocash.eth.link) with TOR.
 
-_Written by_ [_**@bt11ba**_](https://torn.community/u/bt11ba/)
+__

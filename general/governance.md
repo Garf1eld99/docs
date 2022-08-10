@@ -91,6 +91,4 @@ The totality of your locked balance will be delegated.
 
 You can undelegate at anytime. To undelegate simply use the `Undelegate` Button in `Manage` -> `Undelegate` Tab.
 
-_Written by_ [_@rezan_](https://torn.community/u/Rezan/summary)
-
-_Updated by_ [_@bt11ba_](https://torn.community/u/bt11ba/)
+__

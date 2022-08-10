@@ -52,5 +52,3 @@ In this tutorial we will see how to add and remove liquidity on Uniswap v2 TORN/
 ![](../.gitbook/assets/5remove.png)
 
 And that's it! :tada:
-
-_Written by_ [_**@bt11ba**_](https://torn.community/u/bt11ba/)

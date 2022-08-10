@@ -82,4 +82,3 @@ description: Library of articles, videos, news report and tutorials about Tornad
 | Kriss Kilonzo            | Coin Mixing: How to use Tornado cash for maximum anonymity and privacy on Ethereum. | [https://www.defianalytica.com/post/coin-mixing-how-to-use-tornado-cash-for-maximum-anonymity-and-privacy-on-ethereum](https://www.defianalytica.com/post/coin-mixing-how-to-use-tornado-cash-for-maximum-anonymity-and-privacy-on-ethereum) | December 24, 2020  |
 | lauch3d                  | How to buy Ethereum anonymously – using Tornado Cash                                | [https://everything-blockchain.com/how-to-buy-ethereum-anonymously-using-tornado-cash/](https://everything-blockchain.com/how-to-buy-ethereum-anonymously-using-tornado-cash/)                                                               | March 25, 2020     |
 
-Written by [Haneul](https://torn.community/u/haneul/)

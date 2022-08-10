@@ -24,4 +24,4 @@ Your anonymity also depends on the number of transactions after your deposit (cf
 
 A 7 x 10eth deposit from one address and a 7 x 10eth withdrawal to a single address can also be linked. Remember to multiply your withdrawal addresses.
 
-_Written by_ [_**@bt11ba**_](https://torn.community/u/bt11ba/)
+__

@@ -44,4 +44,4 @@ _That's it, we're done, easy peasy lemon squeezy_ :wink:
 
 \_\_
 
-_Written by_ [_**@bt11ba**_](https://torn.community/u/bt11ba/) _&_ [_**@ayefda**_](https://torn.community/u/ayefda)
+__

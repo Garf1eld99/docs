@@ -92,4 +92,3 @@ To connect your wallet, you will need your phone. If you have a Argent wallet, y
 
 For others wallets, steps might be really similar: **WalletConnect's QR code needs to be scanned in order to link your wallet to Tornado Cash.** Make sure to always check for a scanning icon (often located on the landing page or the settings section on your wallet's application).
 
-Written by [Haneul](https://torn.community/u/haneul/)

@@ -49,4 +49,3 @@ description: Library of articles, videos, news report and tutorials about Tornad
 | hodldog                    | How to use TOR Browser with tornado.cash for a wholesome HEX experience               | [https://www.youtube.com/watch?v=Ox4TrWV5GME](https://www.youtube.com/watch?v=Ox4TrWV5GME) | January 28, 2020  |
 | Dapp University            | Private Ethereum Transactions NOW - Tornado.cash                                      | [https://www.youtube.com/watch?v=YgrphOCYAs8](https://www.youtube.com/watch?v=YgrphOCYAs8) | August 9, 2019    |
 
-Written by [Haneul](https://torn.community/u/haneul/)

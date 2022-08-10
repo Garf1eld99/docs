@@ -50,4 +50,4 @@ Use your deposit note by pasting it in the corresponding box. Click on `Withdraw
 
 Done !
 
-_Written by_ [_**@bt11ba**_](https://torn.community/u/bt11ba/)
+__

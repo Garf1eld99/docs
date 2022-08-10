@@ -52,4 +52,4 @@ This information can also be downloaded under a PDF format, making it is easier 
 
 ![https://app.tornado.cash/compliance/](../.gitbook/assets/capture-de-cran-2021-09-02-a-15.12.53.png)
 
-_Written by_ [_@ayefda_](https://torn.community/u/ayefda)
+__

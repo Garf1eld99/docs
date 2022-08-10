@@ -188,4 +188,4 @@
 
 {% embed url="https://github.com/tornadocash/tornado-anonymity-mining" %}
 
-_Written by_ [_@ayefda_](https://torn.community/u/ayefda) _&_ [_@bt11ba_](https://torn.community/u/bt11ba/)
+__

@@ -39,4 +39,4 @@ Thanks to zk-SNARK, it is possible to prove the 20 MiMC hash of the initial comm
 
 Deposits are simple from a technical point of view, but expensive in terms of gas as they need to compute the 20 MiMC hash & update the Merkle tree. On the other hand, the withdrawal process is complex but cheaper as gas is only needed for the nullifier hash and the zero-knowledge proof.
 
-_Written & updated by_ [_@ayefda_](https://torn.community/u/ayefda)
+__

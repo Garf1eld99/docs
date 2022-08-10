@@ -68,4 +68,4 @@ _This tutorial is inspired from the_[ _README.md document_](https://github.com/t
 
 \_\_
 
-_Written by_ [_@ayefda_](https://torn.community/u/ayefda)
+__
